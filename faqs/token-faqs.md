@@ -18,6 +18,7 @@ _**For Companies**_
 | Disclose information on your project to build trust with the community | Project leaders can voluntarily choose to disclose information about their project. This can include details on their token design, smart contracts, security audits, legal opinions, partnership contracts , board members, advisor members, board minutes, incorporation certificates and virtually anything else they think can help build trust & transparency with the community. Projects pay an annual fee in order to have elected community members validate their information.  |
 | Private Evaluation Report | Blockchain investment professionals will evaluate your team, project and market and write up a comprehensive evaluation report. The report serves as an excellent method to collect valuable feedback on your project from industry professionals.  Projects owners pay a one-off fee to receive the private report. |
 | Sponsored Listings  | Advertise your project on the Oroshi portal |
+| List a token  | Get your token included in the Oroshi database |
 
 ## How can I earn WIND tokens?  
 
