@@ -1,11 +1,5 @@
 # General FAQs
 
-## Do you have an API? 
-
-Yes we do. All of the data available on Oroshi is also available through our API. Some of our data is also available through websockets for faster access.   
-  
-Please note that rate limits do apply. Read our API documentation for more information. 
-
 ## Can I add a digital currency? 
 
 If the digital currency you are interested in is not already listed, you can add it by clicking on the "Submit a Digital Currency" button in the footer. You will then need to complete basic level information about that currency. Once you’re done, an Oroshi administrator will review the currency for approval. If anything is missing, they will reach out to you for more information before it can be published in our directory. 
