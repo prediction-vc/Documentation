@@ -1,4 +1,4 @@
-# WIND Governance
+# WIND Token Governance
 
 ## **The WindProtocol organisation**
 
