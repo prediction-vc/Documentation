@@ -69,10 +69,6 @@ The deal matchmaking and custom research portal are seamlessly integrated to pro
 
 The success of the WIND platform is reliant upon the right technological and economic architecture to facilitate information flow.
 
-**The WindProtocol organisation**  
-  
-At the core of our philosophy is disinter-mediating the creation and maintenance of information on companies and investors to present a global, unbiased opinion and pulse. The WindProtocol organisation is itself decentralised and was created on Aragon. All major decisions are put to vote on Aragon and only token holders are able to participate. This decentralised governance model helps align incentives amongst token holders and ensures the project is run in a manner that best serves all token holders.
-
 **The WindProtocol Researchers**  
   
 WindProtocol makes it possible for everyone in the world to organize the world's information on startups in a structured, trusted and economically incentivised manner. Researchers that apply start off at the same level, building up trust and experience over time. Validation and research activities are then allocated to members according to their skill, experience and TrustScore level. The allocation algorithm is itself open source, ensuring transparency and consensus.
