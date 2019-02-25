@@ -9,6 +9,8 @@ description: >-
 
 ## What is the TrustScore©?  
 
+The majority of rating and review sites cannot be trusted due to fake reviews and ratings posted by bad actors - this might include people hired by the startup or malicious competitors.  The WIND TrustScore© solves this trust problem. Members that consistently submit accurate ratings and reviews are financially rewarded for doing so. 
+
 The TrustScore© gives community members a snapshot summary of how much they can trust information provided by another member. Some of the places where you can see the TrustsScore on the platform include: 
 
 * Next to ratings and reviews
@@ -18,11 +20,7 @@ The TrustScore© gives community members a snapshot summary of how much they can
 
 It's also used to calculate how much to pay a member for completing a specific task. The higher your Trustscore, the more you get paid. The lower your TrustScore, the lower you get paid.   
   
-This ensures that members are incentivised to act in a way that increases network value.   
-  
-The majority of rating and review sites cannot be trusted due to fake reviews and ratings posted by bad actors - this might include people hired by the startup or malicious competitors.    
-  
-The WIND TrustScore© solves this trust problem. Members that consistently submit accurate ratings and reviews are financially rewarded for doing so. 
+This ensures that members are incentivised to act in a way that increases network value. 
 
 A summary of the TrustScore© creation process is shown below. This system ensures the incentives of the Researchers are directly aligned with increasing utility to Investors.
 
