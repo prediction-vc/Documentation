@@ -7,6 +7,7 @@
 * [Ratings & Reviews](ratings.md)
 * [TrustScore©](trustscore-c.md)
 * [Organisation Governance](governance.md)
+* [The WIND token](the-wind-token.md)
 
 ## FAQs
 
