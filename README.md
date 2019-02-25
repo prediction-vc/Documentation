@@ -88,25 +88,12 @@ WindProtocol makes it possible for everyone in the world to organize the world's
 
 **If the above sounds like you, please email researchers@windprotocol.com**
 
-\*\*\*\*
-
-**Benefits to Others**
-
-* Earn WIND tokens - Get paid in WIND tokens for completing one-off or ongoing research and validation tasks.
-* Become a thought leader - Prove yourself to the go-to expert for a specific digital currency
-* Good Samaritan - Improve blockchain transparency, reduce scams and expose the best projects.
-* WIN licences - EARN recurring WIND tokens by winning a contract to become the preferred supplier of a specific dataset.
-
-**What does Oroshi mean?**    
-Oroshi is the Japanese term for "wind blowing strong" and is often associated with the wind that blows on the Kanto Plain of central Honshu. In the same way that wind has a direction and strength, so do opinions on digital currencies. Oroshi is also a play on the word "Satoshi" after Satoshi Nakamoto, the infamous person or group that developed bitcoin and the first blockchain database. 
-
 **Learn More**
 
-* [**https://oroshi.io**](https://oroshi.io)
+* [**https://windprotocol.com**](https://oroshi.io)\*\*\*\*
 * **Source Code:** [**https://github.com/prediction-vc/CoreOS**](https://github.com/prediction-vc/CoreOS) **\(coming soon\)**
-* **Documentation:** [**https://oroshi.gitbook.io/project/**](https://oroshi.gitbook.io/project/)  ****
+* **Documentation:** [**https://windprotocol.gitbook.io/project/**](https://oroshi.gitbook.io/project/)  ****
 * **Ethereum Token Address:** [**https://etherscan.io/token/0xc9c0ff6344b4bfdee7ace21c4deddd6e43ecb454**](https://etherscan.io/token/0xc9c0ff6344b4bfdee7ace21c4deddd6e43ecb454)
-* **Aragon Organisation:** [**https://mainnet.aragon.org/\#/oroshi.aragonid.eth/**](https://mainnet.aragon.org/#/oroshi.aragonid.eth/)
-* **Forum:** [**https://spectrum.chat/oroshi-io**](https://spectrum.chat/oroshi-io)
+* **Aragon Organisation:** [**https://mainnet.aragon.org/\#/oroshi.aragonid.eth**](https://mainnet.aragon.org/#/oroshi.aragonid.eth/)
 * [**Telegram**](https://t.me/joinchat/GL1cCEwc0zYYv_Wxtp77gQ)
 
