@@ -8,7 +8,7 @@ description: Apply to WIND and get matched with the world's leading investors
 
 The average founder pitches to over 15 investors when they are raising capital for a round and takes over 4 months to close the round. 
 
-Much of the information collected by respective investors during this period is fact based and repetitive. As a result, founders often end up repeating answers to the same questions over and over again.   
+Much of the information collected by respective investors during this period is fact based and repetitive. As a result, founders often end up repeating answers to the same investor questions over and over again.   
   
 Significant information asymmetries are the principal cause inefficient fundraising processes. Some of the more common information asymmetries are:  
 
@@ -30,7 +30,7 @@ We connect startups directly to investors that our algorithms think will be a go
 
 As part of the application process, the WIND community does a comprehensive analysis of your startup. We do this for 2 reasons: 
 
-1. We want to make sure that startups we show to investors meet a certain quality standard 
+1. We want to make sure that startups we show to investors meet a certain quality benchmark
 2. We want to help startups that apply by giving them tailored feedback that they can use to improve their product 
 
 ## What kind of startups can apply to WIND? 
