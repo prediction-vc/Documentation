@@ -6,6 +6,7 @@
 * [Ratings](ratings.md)
 * [TrustScore©](trustscore-c.md)
 * [Organisation Governance](governance.md)
+* [Researchers](researchers.md)
 
 ## FAQs
 
