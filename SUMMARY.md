@@ -5,6 +5,7 @@
 * [Ratings](ratings.md)
 * [TrustScore©](trustscore-c.md)
 * [Governance](governance.md)
+* [The Solution](the-solution.md)
 
 ## FAQs
 
