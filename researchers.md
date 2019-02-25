@@ -6,8 +6,7 @@ description: Join WIND as a Researcher. Get paid and build your reputation.
 
 ## **WIND Researchers**
 
-Wind makes it possible for everyone in the world to organize the world's information on startups in a structured, trusted and economically incentivised manner. Researchers that apply start off at the same level, building up trust and experience over time. Validation and research activities are then allocated to members according to their skill, experience and TrustScore level. The allocation algorithm is itself open source, ensuring transparency and consensus.  
-****
+Wind makes it possible for everyone in the world to organize the world's information on startups in a structured, trusted and economically incentivised manner. Researchers that apply start off at the same level, building up trust and experience over time. Validation and research activities are then allocated to members according to their skill, experience and TrustScore level. The allocation algorithm is itself open source, ensuring transparency and consensus.
 
 ## **Who can be a WIND Researcher?** 
 
