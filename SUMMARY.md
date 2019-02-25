@@ -1,10 +1,10 @@
 # Table of contents
 
 * [About](README.md)
+* [The Problem](the-problem.md)
 * [Ratings](ratings.md)
 * [TrustScore©](trustscore-c.md)
 * [Governance](governance.md)
-* [The Problem](the-problem.md)
 
 ## FAQs
 
