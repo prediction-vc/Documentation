@@ -6,6 +6,7 @@
 * [Governance](governance.md)
 * [Professional Analysts](professional-analysts.md)
 * [Architecture](architecture.md)
+* [TrustScore©](trustscore-c.md)
 
 ## FAQs
 
