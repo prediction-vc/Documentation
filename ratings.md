@@ -1,4 +1,4 @@
-# Ratings & Reviews
+# Startup Ratings & Reviews
 
 ## What rating criteria is used to evaluate startups on WIND? 
 

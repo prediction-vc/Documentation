@@ -4,10 +4,11 @@
 * [The Problem](the-problem.md)
 * [The Solution](the-solution.md)
 * [Researchers](researchers.md)
-* [Ratings & Reviews](ratings.md)
+* [Startup Ratings & Reviews](ratings.md)
 * [TrustScore©](trustscore-c.md)
-* [Organisation Governance](governance.md)
+* [WIND Governance](governance.md)
 * [The WIND token](the-wind-token.md)
+* [Scouts](scouts.md)
 
 ## FAQs
 

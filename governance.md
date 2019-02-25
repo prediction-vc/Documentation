@@ -1,4 +1,4 @@
-# Organisation Governance
+# WIND Governance
 
 ## **The WindProtocol organisation**
 
