@@ -14,6 +14,5 @@
 
 ## FAQs
 
-* [General FAQs](faqs/platform-faqs.md)
 * [Token FAQs](faqs/token-faqs.md)
 
