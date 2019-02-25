@@ -2,16 +2,18 @@
 
 ## **What is WindProtocol?** 
 
-WindProtocol is revolutionising venture capital. Through the use of game theory and economic incentives, the WINDProtocol platform incentivises researchers, startups and investors to share information with one another across each stage of the value chain.  
+WindProtocol is revolutionising venture capital. Through the use of game theory and economic incentives, the WINDProtocol platform incentivises researchers, startups and investors to share information with one another in a unified network. 
 
 ## **What problem does WindProtocol solve?**
 
 The venture capital industry is rife with inefficiencies. Notorious for pushing the boundaries of technological disruption in other industries, VCs have been surprisingly slow to disrupt their own. The result is a colossal waste in human time as a result of task repetition and a misallocation of financial capital.
 
 **Investors waste time meeting startups that don't fit their investment or quality criteria**  
+  
 The average time taken for a VC to due diligence a deal is 65 hours and only 5% of the deals evaluated are closed. Given the average salaries of partners and associates undertaking the due diligence, this represents a sizeable cost to venture capital firms. 
 
-**Most of the due diligence tasks are repeated by different investors.**   
+**Most of the due diligence tasks are repeated by different investors**  
+  
 In fact, 74% of the tasks undertaken are repeated across different firms, 20% of the tasks are suitable for automation with data products that already exist today and 45% of the research tasks could be comfortably outsourced to specialist 3rd parties to save time and money.  
   
 ****Below are just a few examples of research and due diligence tasks that are either repetitive, suitable for automation or outsourcing. It is by no means an exhaustive list but merely shown for illustrative purposes.    
@@ -68,9 +70,11 @@ The deal matchmaking and custom research portal are seamlessly integrated to pro
 The success of the WIND platform is reliant upon the right technological and economic architecture to facilitate information flow.
 
 **The WindProtocol organisation**  
+  
 At the core of our philosophy is disinter-mediating the creation and maintenance of information on companies and investors to present a global, unbiased opinion and pulse. The WindProtocol organisation is itself decentralised and was created on Aragon. All major decisions are put to vote on Aragon and only token holders are able to participate. This decentralised governance model helps align incentives amongst token holders and ensures the project is run in a manner that best serves all token holders.
 
 **The WindProtocol Researchers**  
+  
 WindProtocol makes it possible for everyone in the world to organize the world's information on startups in a structured, trusted and economically incentivised manner. Researchers that apply start off at the same level, building up trust and experience over time. Validation and research activities are then allocated to members according to their skill, experience and TrustScore level. The allocation algorithm is itself open source, ensuring transparency and consensus.
 
 **Our principal focus for WindProtocol researchers include:**
