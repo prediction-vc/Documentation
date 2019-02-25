@@ -41,7 +41,7 @@ We propose a working prototype solution that creates economic incentives underpi
 
 At the core of the WIND platform is the WIND database which serves to collect information delivered by each of the Stakeholders. Information generated in this database is then passed through an algorithm to match Startups with Investors in a double opt-in introduction process. Tangential to the filtering and matching process are research capabilities to reduce knowledge gaps and speed up the collection of relevant information. This can be used for deal sourcing, trend spotting, risk management and supporting portfolio companies post-investment.
 
-**Investor & Startup Matchmaking**
+### **Investor & Startup Matchmaking**
 
 The process works as follows:
 
@@ -53,7 +53,7 @@ The process works as follows:
 6. A two-way opt-in matching system is utilised to give both Startups and Investors control over who they wish to be introduced to.
 7. Investors will compete for priority access to the top startups through a competitive token staking system.
 
-#### **Outsourced Research & Due Diligence**
+### **Outsourced Research & Due Diligence**
 
 In addition to matchmaking deals, WIND also serves as a useful tool for Investors to outsource research and due diligence to the WIND community. Examples of research that Investors may choose to outsource include:
 
