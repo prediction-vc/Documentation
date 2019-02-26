@@ -49,3 +49,5 @@ The more WIND they stake relative to other Investors, the faster they receive th
   
 Investors that have stake lower amounts or zero WIND run the risk that they may only find out about a top rated deal after other Investors have already offered a term sheet or have run advanced due diligence. In short, staking WIND gives Investors a timing advantage which often also results in an information advantage. 
 
+## [Join WIND as an Investor](https://windprotocol.com/investors)
+
