@@ -2,7 +2,7 @@
 
 ## **The WindProtocol organisation**
 
-At the core of our philosophy is disinter-mediating the creation and maintenance of information on companies and investors to present a global, unbiased opinion and pulse. The WindProtocol organisation is itself decentralised and was created on Aragon. All major decisions are put to vote on Aragon and only token holders are able to participate. This decentralised governance model helps align incentives amongst token holders and ensures the project is run in a manner that best serves all token holders.
+At the core of our philosophy is disinter-mediating the creation and maintenance of information on Startups and Investors to present a global, unbiased opinion and pulse. The WindProtocol organisation is itself decentralised and was created on Aragon. All major decisions are put to vote on Aragon and only token holders are able to participate. This decentralised governance model helps align incentives amongst token holders and ensures the project is run in a manner that best serves all token holders.
 
 ## What is Aragon? 
 
