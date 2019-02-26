@@ -1,5 +1,5 @@
 ---
-description: What is Algorithmic Token Selling?
+description: Algorithmic token sale explained?
 ---
 
 # Algorithmic Token Sale
@@ -9,7 +9,7 @@ description: What is Algorithmic Token Selling?
 An ATS involves selling the token directly through exchanges. This much fairer than ICOs for the following reasons: 
 
 1. It gives everyone the chance to participate 
-2. It enables tokens to be released onto the market gradually, in accordance with growth's in organic demand 
+2. It enables tokens to be released onto the market gradually, in accordance with growth in the organic demand for the token 
 3. It helps avoid huge price volatility spikes as a result of a large number of token holders dumping tokens at the same time 
 
 ## How many WIND tokens will be sold through the ATS? 
@@ -20,7 +20,7 @@ The WIND tokens will be released in "Daily allotments".
 
 ## What is the daily allotment?
 
-The daily allotment is calculated by reference to latest trading volume. The maximum amount of WIND tokens that can be sold on given day will equate to 6% of the previous day's 24 hour trading volume. 
+The daily allotment is calculated by reference to latest trading volume. The maximum amount of WIND tokens that can be sold on a given day will equate to 6% of the previous day's 24 hour trading volume. 
 
 0.1% of the total supply will be released on the first day of exchange listing to initiate the supply
 
