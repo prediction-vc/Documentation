@@ -35,11 +35,9 @@ Any investor can join WIND for free and it can be used to:
 
 ## What other charges are involved?  
 
-Our business model is simple. If we recommend a deal to an Investor that ends up investing the deal, we charge the Investor a 5% commission of the amount they invested.   
+Wind charges an annual rent on staked wallets on a sliding scale from 5-10% based on the amount being staked. This is charged to wallet holders on a monthly basis.   
   
-If the deal was originally brought to the WIND platform by one of our Scouts, we split 50% of this commission with them.   
-  
-We rely on good faith for Investors and Sounders to tell us if a deal did complete. 
+The WIND tokens received from this rent are to cover community operating costs including fund due diligence and referral activities on the platform.
 
 ## How does Investor Staking work?
 

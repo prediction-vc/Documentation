@@ -6,22 +6,18 @@ description: Become a WIND Scout and earn commission on each successful startup 
 
 The WIND Scout program incentivises thousands of Scouts to recommend the hottest deals before they become oversubscribed.   
   
-In return, we offer high economic incentives for Scouts to refer deals to the network. The average scout is estimated to earn $7,500 on a successful deal referral, based on an average deal size of $300,000.   
-  
-This represents 50% of the commission that WIND charges to Investors on successful deal referrals. 
+In return, we offer high economic incentives for Scouts to refer deals to the network. 
 
-## What is a successful deal referral? 
+Scouts will have a TrustScore weighted heavily towards their success in bringing quality startups to the platform.  The determinants will be Startup popularity based on Investor interest, overall Startup score, and most importantly, if a Startup receives funding.   
 
-When a Startup successfully secures funding from an Investor, the Investors pays a fee to the platform equal to 5% of the amount invested. This is how we define "Successful deal referral". 
-
-When a Scout refers a Startup to the WIND network, providing that Startup secures funding, the Scout will receives 2.5% of the amount invested by Investors. so 50% of the WIND commission. 
+When someone participates on the platform as a Scout, they are eligible to receive a quarterly payment of WIND tokens based on their Scout TrustScore. The number of tokens they receive will be based on their TrustScore and the number of Startups they have brought to the platform in the last quarter. The TrustScore system will also impact the ability of a Scout to refer a startup. Scouts with low TrustScores will not be able to refer Startups to the network until their TrustScore is restored.
 
 ## Why should you become a WIND Scout? 
 
 There are numerous benefits to becoming a Scout on WIND. You get to: 
 
-1. Earn 2.5% commission on successful deal referrals \(average estimated fee of $7,000 based on a $300,000 investment\)
-2. Help the founders in your network grow their businesses 
+1. Help the founders in your network grow their businesses 
+2. Receive WIND payments in accordance with your ability to identify the most promising startups
 3. Build your reputation as a talent spotter, paving your way to a career in venture capital or private equity. 
 
 ## \*\*\*\*[**Become a Scout** ](mailto:%20joe@windprotocol.com)\*\*\*\*
