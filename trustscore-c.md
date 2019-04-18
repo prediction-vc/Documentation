@@ -1,6 +1,6 @@
 ---
 description: >-
-  The TrustScore shows you how much you can trust information provided by
+  The TrustyScore shows you how much you can trust information provided by
   another member of the WIND network. It's also used to calculate how much to
   pay a member for completing a specific task.
 ---
@@ -16,7 +16,7 @@ The TrustyScore© gives community members a snapshot summary of how much they ca
 * Next to ratings and reviews
 * Next to files added to the DataRoom
 * On a member's profile page
-* On the TrustScore Leaderboard 
+* On the TrustyScore Leaderboard 
 
 It's also used to calculate how much to pay a member for completing a specific task. The higher your TrustyScore, the more you get paid. The lower your TrustyScore, the lower you get paid. This ensures that members are incentivised to act in a way that increases network value. 
 
