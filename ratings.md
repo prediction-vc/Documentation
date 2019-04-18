@@ -4,7 +4,7 @@ description: The rating system
 
 # Startup Ratings & Reviews
 
-Startups on WIND are rated and reviewed by Researchers in the WIND community. These Researchers are continuously monitored on their abilities to successfully rate and review Startups. Research tasks to rate and review startups are allocated to Researchers using a sophisticated task matching algorithm that looks at their TrustScores and potential for completing Research tasks successfully.    
+Startups on WIND are rated and reviewed by Researchers in the WIND community. These Researchers are continuously monitored on their abilities to successfully rate and review Startups. Research tasks to rate and review startups are allocated to Researchers using a sophisticated task matching algorithm that looks at their TrustyScores and potential for completing Research tasks successfully.    
   
 There are a few core categories that the Researchers evaluate, some of which are common to all Startups and others are context specific, for example "Tokenomics". 
 
@@ -21,5 +21,5 @@ WindProtocol includes a weighted average rating across multiple categories. Each
 | Product/UX  | How do you rate the the product from a product and usability perspective relative to other projects on our platform? Is the product intuitive to use? Is the product design visually appealing? |
 | Average Community Score | The community score is an average score across all community ratings. These scores are weighted according to the researcher's TrustScore.  |
 
-## [Would you like to earn WIND by rating and reviewing Startups? Become a Researcher. ](https://windprotocol.com/platform/register)
+## [Would you like to earn DAI by rating and reviewing Startups? Become a Researcher. ](https://windprotocol.com/platform/register)
 
