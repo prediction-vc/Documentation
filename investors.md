@@ -37,15 +37,15 @@ Any investor can join WIND for free and it can be used to:
 
 Wind charges an annual rent on staked wallets on a sliding scale from 5-10% based on the amount being staked. This is charged to wallet holders on a monthly basis.   
   
-The WIND tokens received from this rent are to cover community operating costs including fund due diligence and referral activities on the platform.
+The DAI received from this rent are to cover community operating costs including fund due diligence and referral activities on the platform.
 
 ## How does Investor Staking work?
 
-Investors have the option of staking WIND to compete ****for priority access to the top rated Startups through a competitive token staking system. 
+Investors have the option of staking DAI to compete ****for priority access to the top rated Startups through a competitive token staking system. 
 
-The more WIND they stake relative to other Investors, the faster they receive the invitations to meet the top rated Startups.   
+The more DAI they stake relative to other Investors, the faster they receive the invitations to meet the top rated Startups.   
   
-Investors that have stake lower amounts or zero WIND run the risk that they may only find out about a top rated deal after other Investors have already offered a term sheet or have run advanced due diligence. In short, staking WIND gives Investors a timing advantage which often also results in an information advantage. 
+Investors that stake lower amounts or zero DAI run the risk that they may only find out about a top rated deal after other Investors have already offered a term sheet or have run advanced due diligence. In short, staking DAI gives Investors a timing advantage which often also results in an information advantage. 
 
 ## [Join WIND as an Investor](https://windprotocol.com/investors)
 
