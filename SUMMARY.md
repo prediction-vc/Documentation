@@ -8,7 +8,7 @@
 * [Researchers](researchers.md)
 * [Scouts](scouts.md)
 * [Startup Ratings & Reviews](ratings.md)
-* [TrustyScore©](trustscore-c.md)
+* [TrueTrust©](trustscore-c.md)
 
 ## FAQs
 
